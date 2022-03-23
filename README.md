@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **imaryan08@gmail.com**
 
-- ⚡ Fun fact **I cannot live without is Internet.**
+- ⚡ Fun fact **I cannot live without Internet.**
 
 ## 🚀 Languages and Tools:
 
