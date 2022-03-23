@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imaryan08" target="blank"><img src="https://img.shields.io/twitter/follow/imaryan08?logo=twitter&style=for-the-badge" alt="imaryan08" /></a> </p>
 
-<img src="https://media.giphy.com/media/1Rj3Q1yvQDFU74otiA/giphy.gif" width="400" alt="GIF">
+<img src="https://media.giphy.com/media/1Rj3Q1yvQDFU74otiA/giphy.gif" width="400" alt="GIF" align="right">
 
 - 🔭 I’m currently working on [blinkit](https://github.com/Imaryan08/blinkit)
 
