@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imaryan08" target="blank"><img src="https://img.shields.io/twitter/follow/imaryan08?logo=twitter&style=for-the-badge" alt="imaryan08" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/16629781-Logo-Animation-for-Engineerx">
+<iframe src="https://giphy.com/embed/1Rj3Q1yvQDFU74otiA" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/donnathomas-rodgers-sunday-domingo-hello-world-1Rj3Q1yvQDFU74otiA">via GIPHY</a></p>
 
 - 🔭 I’m currently working on [blinkit](https://github.com/Imaryan08/blinkit)
 
