@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/imaryan08" target="blank"><img src="https://img.shields.io/twitter/follow/imaryan08?logo=twitter&style=for-the-badge" alt="imaryan08" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/16629781-Logo-Animation-for-Engineerx">
+
 - 🔭 I’m currently working on [blinkit](https://github.com/Imaryan08/blinkit)
 
 - 🌱 I’m currently learning **NodeJS, express, mongoDB**
