@@ -5,13 +5,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[blinkit website](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[blinkit website](https://github.com/Imaryan08/primevideo)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Imaryan08)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Imaryan08?tab=repositories)**
 
 - 📫 How to reach me **imaryan08@gmail.com**
 
