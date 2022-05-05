@@ -17,6 +17,11 @@
 - 📫 How to reach me **imaryan08@gmail.com**
 
 - ⚡ Fun fact **I cannot live without Internet.**
+ 
+- 🤠 Nick Name: Aryan
+
+- 💬 Have a look at my **[portfolio](https://portfolio-imaryan08.vercel.app/)**
+
 
 ## 🚀 Languages and Tools:
 
