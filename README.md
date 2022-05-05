@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I cannot live without Internet.**
  
-- 🤠 Nick Name: Aryan
+- 🤠 Nick Name: ⚡⚡ Aryan ⚡⚡
 
 - 💬 Have a look at my **[portfolio](https://portfolio-imaryan08.vercel.app/)**
 
