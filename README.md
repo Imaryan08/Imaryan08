@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[blinkit website](https://unruffled-mcnulty-573d70.netlify.app/)**
+- 🔭 I’m currently working on **[blinkit clone](https://unruffled-mcnulty-573d70.netlify.app/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
