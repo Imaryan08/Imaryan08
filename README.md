@@ -20,7 +20,7 @@
  
 - 🤠 Nick Name: ⚡⚡ Aryan ⚡⚡
 
-- 💬 Have a look at my **[portfolio](https://portfolio-imaryan08.vercel.app/)**
+- 💬 Have a look at my **[portfolio](https://rampukaryadav.vercel.app/)**
 
 
 ## 🚀 Languages and Tools:
