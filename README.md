@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Imaryan08)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://rampukaryadav.vercel.app/)**
 
 - 📫 How to reach me **imaryan08@gmail.com**
 
