@@ -45,11 +45,12 @@
 
 
 ## 📊 My Github Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Imaryan08&theme=dark&date_format=j%20M%5B%20Y%5D)
+
   <p align="center">
     <a href="https://github.com/Imaryan08/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rampukar yadav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imaryan08&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Imaryan08&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </p>
   <br/>
     <a href="https://github.com/Imaryan08/github-readme-stats"><img alt="Rampukar yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Imaryan08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
